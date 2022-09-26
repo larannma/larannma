@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m a lua developer working on project in Roblox
 
 <!--
 **larannma/larannma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
