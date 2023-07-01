@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1688149377/66873/fluttershy_rolleyes.gif?1688149377" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514983/10096/laptop_parrot.gif?1643514983" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Anna, Frontend developer from Russia, currently living in Moscow. </p>
 <h3>Things I code with</h3>
 <p align="left">
