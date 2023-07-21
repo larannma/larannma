@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514983/10096/laptop_parrot.gif?1643514983" width="80"/> Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1643514983/10096/laptop_parrot.gif?1643514983" width="80"/></h1>
-<p>Welcome to my page! </br> I'm Anna, Frontend developer from Russia, currently living in Moscow. </p>
-<h3>Things I code with</h3>
+<p>Welcome to my page! </br> I'm Anna, developer from Russia, currently living in Moscow. </p>
+<!-- <h3>Things I code with</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -35,7 +35,7 @@
   <a href="https://webpack.js.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a> </p>
-
+ -->
 
 <!--
 **larannma/larannma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
