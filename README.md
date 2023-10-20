@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514983/10096/laptop_parrot.gif?1643514983" width="80"/> Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1643514983/10096/laptop_parrot.gif?1643514983" width="80"/></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514533/5272/pig-happy-jumping.gif?1643514533" width="80"/> Hey! Nice to see you.<img src="https://emojis.slackmojis.com/emojis/images/1643514533/5276/pig-hello-sitting.gif?1643514533" width="80"/></h1>
 <p>Welcome to my page! </br> I'm Anna, developer from Russia, currently living in Moscow. </p>
 <!-- <h3>Things I code with</h3>
 <p align="left">
